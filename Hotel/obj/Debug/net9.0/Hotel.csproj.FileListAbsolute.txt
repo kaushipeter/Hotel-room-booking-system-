@@ -1,0 +1,14 @@
+/Users/kaushipeter/Hotel/bin/Debug/net9.0/Hotel
+/Users/kaushipeter/Hotel/bin/Debug/net9.0/Hotel.deps.json
+/Users/kaushipeter/Hotel/bin/Debug/net9.0/Hotel.runtimeconfig.json
+/Users/kaushipeter/Hotel/bin/Debug/net9.0/Hotel.dll
+/Users/kaushipeter/Hotel/bin/Debug/net9.0/Hotel.pdb
+/Users/kaushipeter/Hotel/obj/Debug/net9.0/Hotel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaushipeter/Hotel/obj/Debug/net9.0/Hotel.AssemblyInfoInputs.cache
+/Users/kaushipeter/Hotel/obj/Debug/net9.0/Hotel.AssemblyInfo.cs
+/Users/kaushipeter/Hotel/obj/Debug/net9.0/Hotel.csproj.CoreCompileInputs.cache
+/Users/kaushipeter/Hotel/obj/Debug/net9.0/Hotel.dll
+/Users/kaushipeter/Hotel/obj/Debug/net9.0/refint/Hotel.dll
+/Users/kaushipeter/Hotel/obj/Debug/net9.0/Hotel.pdb
+/Users/kaushipeter/Hotel/obj/Debug/net9.0/Hotel.genruntimeconfig.cache
+/Users/kaushipeter/Hotel/obj/Debug/net9.0/ref/Hotel.dll
